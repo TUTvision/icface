@@ -53,8 +53,8 @@ not involved in training.
 > pix2pix is trained only on paired data (from cityscapes) and CycleGAN is trained only on unpaired data (from Mapillary vistas).
 > Our model achives high quality results by utilizing both paired and unpaired data simultaneously and outperforms the state-of-the-art approaches.
 ![Bra](https://github.com/TUTvision/Learning-image-to-image-translation-using-paired-and-unpaired-training-samples/blob/master/comp3.png?raw=true "mapo Image")
-
-```  -->
+-->
+```  
 #Citation 
 
 @article{tripathy+kannala+rahtu,
@@ -65,10 +65,11 @@ not involved in training.
 }
 
 ```
-
-<!--```
+<!--
+```
 Note: For the citations of the datasets and existing methods (e.g. cycleGAN, pix2pix) mentioned in this page, please refer to the paper: https://arxiv.org/abs/1805.03189. 
-```-->
+```
+-->
 ```
 Related Work
 1. O. Wiles, A. S. Koepke, A. Zisserman "X2Face: A network for controlling face generation by using images, audio, and pose codes", in ECCV 2018.
@@ -76,6 +77,6 @@ Related Work
 3. Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio "Generative Adversarial Networks", in NIPS 2014. 
 ```
 
-![Octocat](https://github.com/TUTvision/Learning-image-to-image-translation-using-paired-and-unpaired-training-samples/blob/master/logo_tau.png?raw=true "tutImage")
+![Octocat](https://github.com/TUTvision/icface/blob/master/logo_tau.png?raw=true "tutImage")
 
 
