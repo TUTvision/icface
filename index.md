@@ -21,19 +21,29 @@ produces better visual quality, while being more versatile than
 most of the comparison methods. The introduced model could
 provide a lightweight and easy to use tool for multitude of
 advanced image and video editing tasks.
-## Video
+## Icface in action
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VhWrAjI6z0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> The training set contains 50 paired data out of total 2975 training images from this dataset.
-> CycleGAN can only be trained on unpaired data and pix2pix can be trained on only 50 paired data.
-> Our approach utilizes both paired and unpaired data to achive superior results.
-![Bra](https://github.com/TUTvision/Learning-image-to-image-translation-using-paired-and-unpaired-training-samples/blob/master/com1.png?raw=true "Input Image")
-
-### Satellite images to maps translation and vice versa
-> The training set contains 50 paired data out of total 1096 training images from this dataset.
-> Our approach produces better quality results with the help of small paired data cues.
-![Bra](https://github.com/TUTvision/Learning-image-to-image-translation-using-paired-and-unpaired-training-samples/blob/master/comp2.png?raw=true "map Image")
+### The Architecture of Icface
+![](https://github.com/TUTvision/icface/blob/master/model_2.pdf?raw=true "map Image")
+>The overall architecture of the proposed model (ICface)
+for face animation. In the training phase, we select two frames
+from the same video and denote them as source and driving
+image. The generator G N takes the encoded source image and
+neutral facial attributes (F A N ) as input and produces an image
+representing the source identity with central pose and neutral
+expression (neutral image). In the second phase, the generator
+G A takes the encoded neutral image and attributes extracted
+from the driving image (F A D ) as an input and produces an
+image representing the source identity with desired attribute
+parameters F A D . The generators are trained using multiple
+loss functions implemented using the discriminator D (see
+Section 3 for details). In addition, since the driving and
+source images have the same identity, a direct pixel based
+reconstruction loss can also be utilized. Note that this is
+assumed to be true only during training and in the test case
+the identities are likely to be different.
 
 ## Translation using supervision across datasets
 > The training set contains 2975 paired images from cityscapes dataset and 100 unpaired images from
