@@ -26,6 +26,7 @@ advanced image and video editing tasks.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VhWrAjI6z0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### The Architecture of Icface
+<embed src="https://github.com/TUTvision/icface/blob/master/model_2.pdf" width="800px" height="2100px" />
 ![](https://github.com/TUTvision/icface/blob/master/model_2.pdf?raw=true "map Image")
 >The overall architecture of the proposed model (ICface)
 for face animation. In the training phase, we select two frames
