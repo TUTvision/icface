@@ -31,14 +31,14 @@ advanced image and video editing tasks.
 >The overall architecture of the proposed model (ICface)
 for face animation. In the training phase, we select two frames
 from the same video and denote them as source and driving
-image. The generator G N takes the encoded source image and
-neutral facial attributes (F A N ) as input and produces an image
+image. The generator G\_N takes the encoded source image and
+neutral facial attributes (FA\_N ) as input and produces an image
 representing the source identity with central pose and neutral
 expression (neutral image). In the second phase, the generator
-G A takes the encoded neutral image and attributes extracted
-from the driving image (F A D ) as an input and produces an
+G\_A takes the encoded neutral image and attributes extracted
+from the driving image (FA\_D ) as an input and produces an
 image representing the source identity with desired attribute
-parameters F A D . The generators are trained using multiple
+parameters FA\_D . The generators are trained using multiple
 loss functions implemented using the discriminator D (see
 Section 3 for details). In addition, since the driving and
 source images have the same identity, a direct pixel based
