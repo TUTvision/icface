@@ -78,7 +78,6 @@ Related Work
 ```
 
 <!--<img src="https://github.com/TUTvision/icface/blob/master/logo_tau.png" width="288" height="158"> -->
-![Octocat](https://github.com/TUTvision/icface/blob/master/logo_tau.png 
-| width=288)
+![Octocat](https://github.com/TUTvision/icface/blob/master/logo_tau.png)
 
 
