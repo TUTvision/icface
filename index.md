@@ -46,7 +46,6 @@ reconstruction loss can also be utilized. Note that this is
 assumed to be true only during training and in the test case
 the identities are likely to be different.
 
-```
 <!--## Translation using supervision across datasets
 > The training set contains 2975 paired images from cityscapes dataset and 100 unpaired images from
 Mapillary vistas dataset. All the models are tested on Mapillary vistas images that are
@@ -59,25 +58,24 @@ not involved in training.
 #Citation 
 
 @article{tripathy+kannala+rahtu,
-  title={Learning image-to-image translation using paired and unpaired training samples},
+  title={ICface: Interpretable and Controllable Face Reenactment Using GANs},
   author={Tripathy, Soumya and Kannala, Juho and Rahtu, Esa},
-  journal={arXiv preprint arXiv:1805.03189},
-  year={2018}
+  journal={arXiv preprint arXiv},
+  year={2019}
 }
 
 ```
 
-```
+<!--```
 Note: For the citations of the datasets and existing methods (e.g. cycleGAN, pix2pix) mentioned in this page, please refer to the paper: https://arxiv.org/abs/1805.03189. 
-```
+```-->
 ```
 Related Work
-
-1. Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio "Generative Adversarial Networks", in NIPS 2014. 
-2. Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros. "Image-to-Image Translation with Conditional Adversarial Networks", in CVPR 2017.
-3. J. Y. Zhu, T. Park, P. Isola, and A. A. Efros. "Unpaired image-to-image translation using cycle-consistent adversarial networks", In ICCV 2017.
+1. O. Wiles, A. S. Koepke, A. Zisserman "X2Face: A network for controlling face generation by using images, audio, and pose codes", in ECCV 2018.
+2. Zhixin Shu, Mihir Sahasrabudhe, Alp Guler, Dimitris Samaras ,Nikos Paragios, Iasonas Kokkinos "Deforming Autoencoders: Unsupervised Disentangling of Shape and Appearance", in ECCV 2018.
+3. Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio "Generative Adversarial Networks", in NIPS 2014. 
 ```
 
-![Octocat](https://github.com/TUTvision/Learning-image-to-image-translation-using-paired-and-unpaired-training-samples/blob/master/tut.jpeg?raw=true "tutImage")
+![Octocat](https://github.com/TUTvision/Learning-image-to-image-translation-using-paired-and-unpaired-training-samples/blob/master/logo_tau.png?raw=true "tutImage")
 
 
