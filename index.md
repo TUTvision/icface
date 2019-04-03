@@ -26,8 +26,8 @@ advanced image and video editing tasks.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VhWrAjI6z0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### The Architecture of Icface
-<embed src="http://github.com/TUTvision/icface/blob/master/model_2.pdf" width="800px" height="1000px" />
-![](https://github.com/TUTvision/icface/blob/master/model_2.pdf?raw=true "map Image")
+
+![](https://github.com/TUTvision/icface/blob/master/model_2-1.jpg?raw=true "architecture")
 >The overall architecture of the proposed model (ICface)
 for face animation. In the training phase, we select two frames
 from the same video and denote them as source and driving
@@ -46,7 +46,8 @@ reconstruction loss can also be utilized. Note that this is
 assumed to be true only during training and in the test case
 the identities are likely to be different.
 
-## Translation using supervision across datasets
+```
+<!--## Translation using supervision across datasets
 > The training set contains 2975 paired images from cityscapes dataset and 100 unpaired images from
 Mapillary vistas dataset. All the models are tested on Mapillary vistas images that are
 not involved in training.
@@ -54,7 +55,7 @@ not involved in training.
 > Our model achives high quality results by utilizing both paired and unpaired data simultaneously and outperforms the state-of-the-art approaches.
 ![Bra](https://github.com/TUTvision/Learning-image-to-image-translation-using-paired-and-unpaired-training-samples/blob/master/comp3.png?raw=true "mapo Image")
 
-```
+```  -->
 #Citation 
 
 @article{tripathy+kannala+rahtu,
