@@ -25,7 +25,7 @@ advanced image and video editing tasks.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VhWrAjI6z0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### The Architecture of Icface
+## The Architecture of Icface
 
 ![](https://github.com/TUTvision/icface/blob/master/model_2-1.jpg?raw=true "architecture")
 >The overall architecture of the proposed model (ICface)
