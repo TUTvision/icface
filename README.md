@@ -1,5 +1,4 @@
-# ICface: 
-Interpretable and Controllable Face Reenactment Using GANs
+**ICface:Interpretable and Controllable Face Reenactment Using GANs**
 
 project page stuff. 
 
