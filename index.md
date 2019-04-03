@@ -77,7 +77,7 @@ Related Work
 3. Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio "Generative Adversarial Networks", in NIPS 2014. 
 ```
 
-<img src="https://github.com/TUTvision/icface/blob/master/logo_tau.png" alt="tut_image" width="158" height="288">
+<img src="https://github.com/TUTvision/icface/blob/master/logo_tau.png" width="158" height="288">
 <!--![Octocat](https://github.com/TUTvision/icface/blob/master/logo_tau.png?raw=true "tutImage") -->
 
 
