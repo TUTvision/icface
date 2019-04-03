@@ -1,2 +1,2 @@
-# icface
-Project page for "ICface: Interpretable and Controllable Face Reenactment Using GANs"
+# Learning-image-to-image-translation-using-paired-and-unpaired-training-samples
+Project page
