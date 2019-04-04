@@ -25,7 +25,7 @@ advanced image and video editing tasks.
 
 <iframe width="800" height="515" src="https://www.youtube.com/embed/VhWrAjI6z0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## The Architecture of Icface
+## The Architecture of ICface
 
 ![](https://github.com/TUTvision/icface/blob/master/model_2-1.jpg?raw=true | width=500)
 >The overall architecture of the proposed model (ICface)
@@ -55,7 +55,7 @@ not involved in training.
 ![Bra](https://github.com/TUTvision/Learning-image-to-image-translation-using-paired-and-unpaired-training-samples/blob/master/comp3.png?raw=true "mapo Image")
 -->
 ## Paper
-![](https://arxiv.org/pdf/1904.01909.pdf?raw=true | width=500)
+<iframe src="https://arxiv.org/abs/1904.01909" height="200" width="300"></iframe>
 <!--<iframe width="360" height="315" src="https://arxiv.org/abs/1904.01909"></iframe> -->
 ```  
 #Citation 
