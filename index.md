@@ -27,7 +27,7 @@ advanced image and video editing tasks.
 
 ## The Architecture of Icface
 
-![](https://github.com/TUTvision/icface/blob/master/model_2-1.jpg?raw=true | width=800)
+![](https://github.com/TUTvision/icface/blob/master/model_2-1.jpg?raw=true | width=500)
 >The overall architecture of the proposed model (ICface)
 for face animation. In the training phase, we select two frames
 from the same video and denote them as source and driving
@@ -54,7 +54,7 @@ not involved in training.
 > Our model achives high quality results by utilizing both paired and unpaired data simultaneously and outperforms the state-of-the-art approaches.
 ![Bra](https://github.com/TUTvision/Learning-image-to-image-translation-using-paired-and-unpaired-training-samples/blob/master/comp3.png?raw=true "mapo Image")
 -->
-<embed src="https://arxiv.org/pdf/1904.01909.pdf" type="application/pdf" />
+<iframe width="360" height="315" src="https://arxiv.org/pdf/1904.01909.pdf" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```  
 #Citation 
 
