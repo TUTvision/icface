@@ -55,7 +55,11 @@ not involved in training.
 ![Bra](https://github.com/TUTvision/Learning-image-to-image-translation-using-paired-and-unpaired-training-samples/blob/master/comp3.png?raw=true "mapo Image")
 -->
 ## Paper
-<iframe src="https://arxiv.org/abs/1904.01909" height="200" width="300" style="border:none;"></iframe>
+
+ <iframe src="https://arxiv.org/pdf/1904.01909.pdf" height="500" width="600" style="border:none;" name="iframe_a">
+</iframe>
+<p><a href="https://arxiv.org/abs/1904.01909" target="iframe_a">Download</a></p>
+
 <!--<iframe width="360" height="315" src="https://arxiv.org/abs/1904.01909"></iframe> -->
 ```  
 #Citation 
