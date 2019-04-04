@@ -58,7 +58,7 @@ not involved in training.
 
  <iframe src="https://arxiv.org/pdf/1904.01909.pdf" height="500" width="600" style="border:none;" name="iframe_a">
 </iframe>
-<p><a href="https://arxiv.org/abs/1904.01909" target="iframe_a">Download</a></p>
+<p><a href="https://arxiv.org/abs/1904.01909" class="btn">Download</a></p>
 
 <!--<iframe width="360" height="315" src="https://arxiv.org/abs/1904.01909"></iframe> -->
 ```  
