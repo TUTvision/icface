@@ -54,7 +54,7 @@ not involved in training.
 > Our model achives high quality results by utilizing both paired and unpaired data simultaneously and outperforms the state-of-the-art approaches.
 ![Bra](https://github.com/TUTvision/Learning-image-to-image-translation-using-paired-and-unpaired-training-samples/blob/master/comp3.png?raw=true "mapo Image")
 -->
-<iframe width="360" height="315" src="https://arxiv.org/abs/1904.01909" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" height="315" src="https://arxiv.org/abs/1904.01909"></iframe>
 ```  
 #Citation 
 
