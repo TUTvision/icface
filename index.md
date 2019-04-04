@@ -21,13 +21,13 @@ produces better visual quality, while being more versatile than
 most of the comparison methods. The introduced model could
 provide a lightweight and easy to use tool for multitude of
 advanced image and video editing tasks.
-## Icface in action
+## ICface in action
 
 <iframe width="800" height="515" src="https://www.youtube.com/embed/VhWrAjI6z0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Architecture of Icface
 
-![](https://github.com/TUTvision/icface/blob/master/model_2-1.jpg?raw=true | width=1000)
+![](https://github.com/TUTvision/icface/blob/master/model_2-1.jpg?raw=true | width=800)
 >The overall architecture of the proposed model (ICface)
 for face animation. In the training phase, we select two frames
 from the same video and denote them as source and driving
@@ -54,6 +54,7 @@ not involved in training.
 > Our model achives high quality results by utilizing both paired and unpaired data simultaneously and outperforms the state-of-the-art approaches.
 ![Bra](https://github.com/TUTvision/Learning-image-to-image-translation-using-paired-and-unpaired-training-samples/blob/master/comp3.png?raw=true "mapo Image")
 -->
+<embed src="https://arxiv.org/pdf/1904.01909.pdf" type="application/pdf" />
 ```  
 #Citation 
 
