@@ -56,9 +56,8 @@ not involved in training.
 -->
 ## Paper
 
- <iframe src="https://arxiv.org/pdf/1904.01909.pdf" height="500" width="600" style="border:none;" name="iframe_a">
-</iframe>
-<p><a href="https://arxiv.org/abs/1904.01909">Download</a></p>
+<blockquote class="embedly-card"><h4><a href="https://arxiv.org/abs/1904.01909">ICface: Interpretable and Controllable Face Reenactment Using GANs</a></h4><p>This paper presents a generic face animator that is able to control the pose and expressions of a given face image. The animation is driven by human interpretable control signals consisting of head pose angles and the Action Unit (AU) values. The control information can be obtained from multiple sources including external driving videos and manual controls.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card"><h4><a href="https://github.com/Blade6570/icface">Blade6570/icface</a></h4><p>ICface: Interpretable and Controllable Face Reenactment Using GANs - Blade6570/icface</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
