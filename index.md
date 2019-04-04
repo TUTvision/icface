@@ -60,6 +60,9 @@ not involved in training.
 </iframe>
 <p><a href="https://arxiv.org/abs/1904.01909">Download</a></p>
 
+<blockquote class="embedly-card"><h4><a href="https://github.com/Blade6570/icface">Blade6570/icface</a></h4><p>ICface: Interpretable and Controllable Face Reenactment Using GANs - Blade6570/icface</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 <!--<iframe width="360" height="315" src="https://arxiv.org/abs/1904.01909"></iframe> -->
 ```  
 #Citation 
