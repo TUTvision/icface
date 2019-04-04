@@ -23,11 +23,11 @@ provide a lightweight and easy to use tool for multitude of
 advanced image and video editing tasks.
 ## Icface in action
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VhWrAjI6z0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="515" src="https://www.youtube.com/embed/VhWrAjI6z0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Architecture of Icface
 
-![](https://github.com/TUTvision/icface/blob/master/model_2-1.jpg?raw=true "architecture")
+![](https://github.com/TUTvision/icface/blob/master/model_2-1.jpg?raw=true | width=1000)
 >The overall architecture of the proposed model (ICface)
 for face animation. In the training phase, we select two frames
 from the same video and denote them as source and driving
@@ -60,7 +60,7 @@ not involved in training.
 @article{tripathy+kannala+rahtu,
   title={ICface: Interpretable and Controllable Face Reenactment Using GANs},
   author={Tripathy, Soumya and Kannala, Juho and Rahtu, Esa},
-  journal={arXiv preprint arXiv},
+  journal={arXiv preprint arXiv:1904.01909},
   year={2019}
 }
 
