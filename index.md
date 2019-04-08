@@ -91,7 +91,7 @@ Related Work
 ```
 ## ICface in News
 
-<blockquote <h4><a href="https://www.tal-mi-or.de/news/icface-gesichtsanimator">Video anderer Person als Vorlage</a></h4><p>Fritz Lang und der Kameramann Curt Courant bei Dreharbeiten [Foto: Georg Pahl, Quelle: Bundesarchiv/ Wikimedia Commons , Lizenz: CC BY-SA 3.0 de ] Wissenschaftler haben den Gesichtsanimator ICface entwickelt, mit dem ein Standbild einer Person durch eine Videoaufnahme von einer anderen Person mit den gleichen Gesichtsausdrücken und Haltungen animiert werden kann.</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://www.tal-mi-or.de/news/icface-gesichtsanimator">Video anderer Person als Vorlage</a></h4><p>Fritz Lang und der Kameramann Curt Courant bei Dreharbeiten [Foto: Georg Pahl, Quelle: Bundesarchiv/ Wikimedia Commons , Lizenz: CC BY-SA 3.0 de ] Wissenschaftler haben den Gesichtsanimator ICface entwickelt, mit dem ein Standbild einer Person durch eine Videoaufnahme von einer anderen Person mit den gleichen Gesichtsausdrücken und Haltungen animiert werden kann.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <!--<img src="https://github.com/TUTvision/icface/blob/master/logo_tau.png" width="288" height="158"> -->
