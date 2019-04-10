@@ -61,7 +61,9 @@ not involved in training.
 
 ## Code 
 
-Check for updates in my github page. 
+:white_check_mark:**_test code out now !_**
+
+Check for more updates in my github page. 
 
 <blockquote class="embedly-card"><h4><a href="https://github.com/Blade6570/icface">Blade6570/icface</a></h4><p>ICface: Interpretable and Controllable Face Reenactment Using GANs - Blade6570/icface</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
