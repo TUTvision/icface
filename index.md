@@ -61,7 +61,7 @@ not involved in training.
 
 ## Code 
 
-:white_check_mark: **_test code out now !_**
+:white_check_mark: **_test code is out now !_**
 
 Check for more updates in my github page. 
 
