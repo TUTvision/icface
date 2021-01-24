@@ -59,18 +59,20 @@ not involved in training.
 <blockquote class="embedly-card"><h4><a href="https://arxiv.org/abs/1904.01909">ICface: Interpretable and Controllable Face Reenactment Using GANs</a></h4><p>This paper presents a generic face animator that is able to control the pose and expressions of a given face image. The animation is driven by human interpretable control signals consisting of head pose angles and the Action Unit (AU) values. The control information can be obtained from multiple sources including external driving videos and manual controls.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-## Code 
+:zap: **_Check our new paper on ICface [FACEGAN](https://tutvision.github.io/FACEGAN/)_**
+
+## Code
 
 :white_check_mark: **_test code is out now !_**
 
-Check for more updates in my github page. 
+Check for more updates in my github page.
 
 <blockquote class="embedly-card"><h4><a href="https://github.com/Blade6570/icface">Blade6570/icface</a></h4><p>ICface: Interpretable and Controllable Face Reenactment Using GANs - Blade6570/icface</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <!--<iframe width="360" height="315" src="https://arxiv.org/abs/1904.01909"></iframe> -->
-```  
-#Citation 
+```
+#Citation
 
 @article{tripathy+kannala+rahtu,
   title={ICface: Interpretable and Controllable Face Reenactment Using GANs},
@@ -79,17 +81,24 @@ Check for more updates in my github page.
   year={2019}
 }
 
+@InProceedings{Tripathy_2021_WACV,
+author = {Tripathy, Soumya and Kannala, Juho and Rahtu, Esa},
+title = {FACEGAN: Facial Attribute Controllable rEenactment GAN},
+booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+year = {2021}
+}
+
 ```
 <!--
 ```
-Note: For the citations of the datasets and existing methods (e.g. cycleGAN, pix2pix) mentioned in this page, please refer to the paper: https://arxiv.org/abs/1805.03189. 
+Note: For the citations of the datasets and existing methods (e.g. cycleGAN, pix2pix) mentioned in this page, please refer to the paper: https://arxiv.org/abs/1805.03189.
 ```
 -->
 ```
 Related Work
 1. O. Wiles, A. S. Koepke, A. Zisserman "X2Face: A network for controlling face generation by using images, audio, and pose codes", in ECCV 2018.
 2. Zhixin Shu, Mihir Sahasrabudhe, Alp Guler, Dimitris Samaras ,Nikos Paragios, Iasonas Kokkinos "Deforming Autoencoders: Unsupervised Disentangling of Shape and Appearance", in ECCV 2018.
-3. Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio "Generative Adversarial Networks", in NIPS 2014. 
+3. Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio "Generative Adversarial Networks", in NIPS 2014.
 ```
 <!-- ## ICface in News
 
@@ -98,5 +107,3 @@ Related Work
 
 <!--<img src="https://github.com/TUTvision/icface/blob/master/logo_tau.png" width="288" height="158"> -->
 ![Octocat](https://github.com/TUTvision/icface/blob/master/logo_tau.png?raw=true | width=288)
-
-
